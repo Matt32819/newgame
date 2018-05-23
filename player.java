@@ -1,7 +1,8 @@
-//Matt the miner
-//https://clunse.deviantart.com/gallery/60110085/Ulgrim
-public class player
-{
-  private String[] abilities = {Ice Wall, Ghost Walk, Cold Snap, Alacrity, EMP, Tornado,
-  
-    
+public class Player{
+	private int Health;
+	private int PDamage;
+	private int Level;
+	private int Mana;
+	private int Gold;
+	private int 
+}
