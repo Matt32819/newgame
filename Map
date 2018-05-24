@@ -80,6 +80,7 @@ public class GameFrame extends JFrame
 		{
 			super.paintComponent(g);
 			setBackground(Color.WHITE);
+			g.drawLine(0,800, 1585, 800);
 			//g.setColor(Color.WHITE);
 			//g.fillRect(x,y,size,size);
 			//g.setColor(Color.RED);
@@ -99,4 +100,3 @@ public class GameFrame extends JFrame
 	
 	
 }
-  
